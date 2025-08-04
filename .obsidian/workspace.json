@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "fc80ae3a72137e05",
+    "type": "split",
+    "children": [
+      {
+        "id": "54b02b7bb6e49051",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3241dda69188cf3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEXAS/ELPASO/YISD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "YISD"
+            }
+          },
+          {
+            "id": "406b3198bcbc7e0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEXAS/ELPASO/SOCORRO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOCORRO"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "baef4489a97be46b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb54e07565d0bf97",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "297751c2c6391009",
+    "type": "split",
+    "children": [
+      {
+        "id": "0094bf4661eeae6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9db3ba8297c97968",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "35c7b3a3210bd1c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a0f7278f3bf9e439",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4afa85a8814c162f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0624fc7b456a2726",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ab3a8d3c59eb6e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TEXAS/ELPASO/SOCORRO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SOCORRO"
+            }
+          },
+          {
+            "id": "26ec3346a216c4a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TEXAS/ELPASO/SOCORRO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SOCORRO"
+            }
+          },
+          {
+            "id": "a2ff55db5eca806a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f419779ce405eaf5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TEXAS/ELPASO/SOCORRO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SOCORRO"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "406b3198bcbc7e0c",
+  "lastOpenFiles": [
+    "TEXAS/ELPASO/YISD.md",
+    "TEXAS/ELPASO/SOCORRO.md",
+    "TEXAS/ELPASO/ANTHONY.md",
+    "TEXAS/ELPASO.md",
+    "TEXAS/ELPASO",
+    "TEXAS/ELPASO/SAN_ELIZ.md",
+    "TEXAS/ELPASO/CANUTILLO.md",
+    "TEXAS/ELPASO/CLINT.md",
+    "TEXAS/ELPASO/EPI.md",
+    "TEXAS"
+  ]
+}
