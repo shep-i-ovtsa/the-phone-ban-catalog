@@ -19,6 +19,9 @@ We welcome contributions to expand this catalog to additional cities and distric
 - Include a **valid source link (as of the date of update)** to the district website or policy document.  
 - Submit changes through a **pull request** for review.
 - we ask obsidian contributors to keep markdown readible to non obsidian readers. thank you!
-##intended viewing
+
+## Intended viewing
+
 - for best viewing and navigation its recommend this repo be dropped into obsidian
+  
 if you do not have obsidian, this repo should be able to viewed cleanly in other sources if you can navigate to your district.
